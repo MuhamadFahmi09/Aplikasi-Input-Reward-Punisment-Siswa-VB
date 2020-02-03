@@ -1,0 +1,73 @@
+D:\Pemdasku\bap 1\bap 1\bin\Debug\bap 1.exe.config
+D:\Pemdasku\bap 1\bap 1\bin\Debug\bap 1.exe
+D:\Pemdasku\bap 1\bap 1\bin\Debug\bap 1.pdb
+D:\Pemdasku\bap 1\bap 1\bin\Debug\bap 1.xml
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap 1.vbprojResolveAssemblyReference.cache
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Form1.resources
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Resources.resources
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap 1.vbproj.GenerateResource.Cache
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap 1.exe
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap 1.xml
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap 1.pdb
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Form2.resources
+D:\Pemdasku\bap 1\bap 1\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Form4.resources
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Form5.resources
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Form6.resources
+D:\Pemdasku\bap 1\bap 1\obj\Debug\bap_1.Form7.resources
+D:\Project VB Net\bap 1\bap 1\bin\Debug\bap 1.exe.config
+D:\Project VB Net\bap 1\bap 1\bin\Debug\bap 1.exe
+D:\Project VB Net\bap 1\bap 1\bin\Debug\bap 1.pdb
+D:\Project VB Net\bap 1\bap 1\bin\Debug\bap 1.xml
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.vbprojAssemblyReference.cache
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Form1.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Form2.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Form4.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Form5.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Form6.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Form7.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap_1.Resources.resources
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.vbproj.GenerateResource.cache
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.vbproj.CoreCompileInputs.cache
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.vbproj.CopyComplete
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.exe
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.xml
+D:\Project VB Net\bap 1\bap 1\obj\Debug\bap 1.pdb
+D:\Project VB Net\basic application project\bap 1\bin\Debug\bap 1.exe.config
+D:\Project VB Net\basic application project\bap 1\bin\Debug\bap 1.exe
+D:\Project VB Net\basic application project\bap 1\bin\Debug\bap 1.pdb
+D:\Project VB Net\basic application project\bap 1\bin\Debug\bap 1.xml
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.vbprojAssemblyReference.cache
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Form2.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Resources.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.vbproj.GenerateResource.cache
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.vbproj.CoreCompileInputs.cache
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.vbproj.CopyComplete
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.exe
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.xml
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap 1.pdb
+D:\Pemdasku\basic application project\bap 1\bin\Debug\bap 1.exe.config
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap 1.exe
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap 1.xml
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap 1.pdb
+D:\Pemdasku\basic application project\bap 1\bin\Debug\bap 1.exe
+D:\Pemdasku\basic application project\bap 1\bin\Debug\bap 1.pdb
+D:\Pemdasku\basic application project\bap 1\bin\Debug\bap 1.xml
+D:\Pemdasku\basic application project\bap 1\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap 1.vbprojResolveAssemblyReference.cache
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Form2.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Resources.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap 1.vbproj.GenerateResource.Cache
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Formlogin.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Datakasus.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Datakejadian.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Datasiswa.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Dataguru.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Datarayon.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Formlogin.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Datakasus.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Datakejadian.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Datasiswa.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Dataguru.resources
+D:\Project VB Net\basic application project\bap 1\obj\Debug\bap_1.Datarayon.resources
+D:\Pemdasku\basic application project\bap 1\obj\Debug\bap_1.Formdaftar.resources
